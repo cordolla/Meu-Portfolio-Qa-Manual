@@ -2,7 +2,7 @@
 
 **Sistema:** Product Store
 **Módulo:** Carrinho e Checkout
-**Prioridade:** Crítica (Core Business) 
+**Prioridade:** Crítica 
 
 ---
 
