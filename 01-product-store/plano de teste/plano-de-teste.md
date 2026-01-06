@@ -13,7 +13,7 @@ Este documento descreve a estratégia de teste para o sistema de e-commerce **Pr
 ## 2. Escopo
 
 ### 2.1. Funcionalidades a Testar (In Scope)
-Com base na [Análise de Requisitos](./requisitos-funcionais/analise-de-requisitos.md), os seguintes módulos serão validados:
+Com base na [Análise de Requisitos](https://github.com/cordolla/Meu-Portfolio-Qa-Manual/blob/main/01-product-store/requisitos-funcionais/analise-de-requisitos.md), os seguintes módulos serão validados:
 
 * **Módulo 1: Cadastro e Autenticação**
     * Cadastro de novos utilizadores.
